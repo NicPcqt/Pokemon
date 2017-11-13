@@ -1,0 +1,4 @@
+Application pokémon
+
+1. Page "home" dans index.php
+2.dans cette page => liste pokémon généré par fonction de function.php
